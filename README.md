@@ -8,7 +8,7 @@ Mon but est de décrocher ma certification à la fin de cette formation et de m'
   
 Mes compétences :<BR>
 Je suis quelqu'un d'autonome, de rigoureux et perfectionniste (peut être trop même...). <BR>
-Je suis à l'aise dans la création graphique (maquettage) grace à des compétences acquises depuis des années. <BR>
+Je suis à l'aise dans la création graphique (maquettage et mise en page) grace à des compétences acquises depuis des années. <BR>
 J'integre cette formation sans aucunes connaissance en langage de codage. Je suis en phase d'apprentissage et me donne toutes les chances pour mener cette aventure du mieux possible.<BR>
   
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -23,7 +23,7 @@ My goal is to obtain certification at the end of this training and pursue a care
 
 My skills : <BR>
 I'm independent, rigorous, and a perfectionist (maybe even too much so...). <BR>
-I'm also comfortable with graphic design (layout) thanks to skills acquired over the years. <BR>
+I'm also comfortable with graphic design (mock-up and layout) thanks to skills acquired over the years. <BR>
 Despite having no prior knowledge of coding languages, I'm in the learning phase and am giving myself every opportunity to succeed in this adventure.<BR><BR>
 
 ## Socials:
