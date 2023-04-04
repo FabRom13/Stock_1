@@ -16,15 +16,15 @@ J'integre cette formation sans aucunes connaissance en langage de codage. Je sui
 ## CODING AND ME ! <BR>
 
 About me :<BR>
-I'm currently in DWWM training in Sorgues (France) with Avenir 84. I chose Web development following a professional retraining. <BR><BR>
+I'm currently undergoing DWWM training in Sorgues, France with Avenir 84. I chose web development as a career path following a professional retraining. <BR><BR>
 
 My future : <BR>
-My goal is to obtain my certification at the end of this training and to invest myself professionally as a Web Developer. <BR><BR>
+My goal is to obtain certification at the end of this training and pursue a career as a web developer. <BR><BR>
 
 My skills : <BR>
-I'm independent, rigorous and a perfectionist (maybe even too much...). <BR>
-I'm comfortable in graphic design (layout) thanks to skills acquired over the years. <BR>
-I integrate this training without any knowledge of coding language. I'm in the learning phase and give myself every chance to lead this adventure as best as possible.<BR><BR>
+I'm independent, rigorous, and a perfectionist (maybe even too much so...). <BR>
+I'm also comfortable with graphic design (layout) thanks to skills acquired over the years. <BR>
+Despite having no prior knowledge of coding languages, I'm in the learning phase and am giving myself every opportunity to succeed in this adventure.<BR><BR>
 
 ## Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/Fab_Rom_13#5024) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/XXXXX/) 
