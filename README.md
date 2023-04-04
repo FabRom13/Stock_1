@@ -1,4 +1,4 @@
-## MON PETIT MONDE DE CODAGE ! <BR>
+## LE CODAGE ET MOI ! <BR>
 
 A propos de moi :<BR>
 Je suis actuellement en formation DWWM sur Sorgues (France) avec Avenir 84. J'ai choisi le développement Web suite à une reconversion professionnelle. <BR><BR>
@@ -13,7 +13,7 @@ J'integre cette formation sans aucunes connaissance en langage de codage. Je sui
   
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## MY LITTLE CODING WORLD ! <BR>
+## CODING AND ME ! <BR>
 
 About me :<BR>
 I'm currently in DWWM training in Sorgues (France) with Avenir 84. I chose Web development following a professional retraining. <BR><BR>
