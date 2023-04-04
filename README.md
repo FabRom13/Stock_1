@@ -18,10 +18,8 @@ J'integre cette formation sans aucunes connaissance en langage de codage. Je sui
 About me :<BR>
 I'm currently in DWWM training in Sorgues (France) with Avenir 84. I chose Web development following a professional retraining. <BR><BR>
 
-
 My future : <BR>
 My goal is to obtain my certification at the end of this training and to invest myself professionally as a Web Developer. <BR><BR>
-
 
 My skills : <BR>
 I'm independent, rigorous and a perfectionist (maybe even too much...). <BR>
